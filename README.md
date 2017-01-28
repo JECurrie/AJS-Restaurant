@@ -1,2 +1,2 @@
 # AJS-Rastaurant
-AngularJS - David Chu's China Bistro SPA
+AngularJS - David Chu's China Bistro SPA.
